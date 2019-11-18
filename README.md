@@ -3,7 +3,7 @@
 ## Rogers Review Forms
 Would you like assistance filling out some of the forms required to renew your Rogers authority?
 
-Please visit the <a href-"https://community.lawyer/cl/mlursul/massachusetts-rogers-review"> Massachusetts Rogers Review</a> website. 
+Please visit the <a href="https://community.lawyer/cl/mlursul/massachusetts-rogers-review"> Massachusetts Rogers Review</a> website. 
 
 ## Rogers Review Reminder System
 
