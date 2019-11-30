@@ -6,7 +6,7 @@
 
 ## Rogers Review Assistant
 
-The <a href="https://interviews-dev.gbls.org/interview?i=docassemble.playground51%3ARogers_Review_Assistant_FINAL.yaml#page1"> Rogers Review Assistant</a> provides guidance filling out forms and preparing for annual Rogers Review hearings. 
+The <a href="https://mlursul.community.lawyer/interview?i=docassemble.playground1%3AxvduFFgcsBOVxckW.yml#page1"> Rogers Review Assistant</a> provides guidance filling out forms and preparing for annual Rogers Review hearings. 
 
 ## Rogers Review Reminder System
 
